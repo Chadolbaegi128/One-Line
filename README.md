@@ -6,7 +6,7 @@ AI가 한 줄로 요약한 문장을 게시물의 썸네일로 하는 자유 주
 
 - 서비스명 : One-Line
 - 개발 기간 : 04.17 ~ 05.19 (5주)
-- 서비스 [링크](www.naver.com)
+- 서비스 [링크](https://10team.vercel.app/)
 - 와이어프레임 [링크](https://www.figma.com/file/nciwBpbdF0fojqBuTkO5Az/10team_3rdProject?type=design&t=Ng2z1q1zs8n8Pepa-0)
 - API 문서 [링크](https://www.notion.so/elice/dea234ec490545bd88d9a278126b191c?v=b64fb6a9fe6146d5ac48067e3210568e&pvs=4)
 
@@ -66,7 +66,7 @@ AI가 한 줄로 요약한 문장을 게시물의 썸네일로 하는 자유 주
 
 ## DB 테이블 구조
 
-![image](/uploads/8e7ecffacea08f48d576c04c971bc1ec/image.png)
+![One-Line DB 테이블](https://github.com/Chadolbaegi128/One-Line/assets/91059184/88fc9203-b260-40f9-bbe9-e5af75512c53)
 
 ## 기능
 
@@ -85,7 +85,7 @@ AI가 한 줄로 요약한 문장을 게시물의 썸네일로 하는 자유 주
 
 ## 서비스 시연 예시
 
-예시 화면 붙여넣기.
+![One-Line 메인 페이지](https://github.com/Chadolbaegi128/One-Line/assets/91059184/7204a050-bdf8-42f8-9318-cbe23128e211)
 
 ## 실행 방법
 
@@ -99,4 +99,3 @@ npm install
 npm start
 ```
 
-##
