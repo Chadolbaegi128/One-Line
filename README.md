@@ -102,4 +102,4 @@ npm start
 
 ## 저장소 링크
  - [백엔드](https://github.com/Chadolbaegi128/One-Line_Backend)
- - [AI]()
+ - [AI](https://github.com/Chadolbaegi128/One-Line_AI)
