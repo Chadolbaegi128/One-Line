@@ -9,6 +9,7 @@ AI가 한 줄로 요약한 문장을 게시물의 썸네일로 하는 자유 주
 - 서비스 [링크](https://10team.vercel.app/)
 - 와이어프레임 [링크](https://www.figma.com/file/nciwBpbdF0fojqBuTkO5Az/10team_3rdProject?type=design&t=Ng2z1q1zs8n8Pepa-0)
 - API 문서 [링크](https://www.postman.com/ai6-10team/workspace/10/collection/25697667-108fde77-fde6-4760-9a25-d75512a5cc06)
+- 시연 영상 [링크](https://drive.google.com/file/d/16Qni0swyC8HbAY2iqnEy5QWze9ianjln/view?usp=share_link)
 
 ## 기획 의도
 
